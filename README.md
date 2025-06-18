@@ -50,3 +50,55 @@ Atuei como **líder da equipe de desenvolvimento na parte de programação**, se
 - 🔸 Projeto desenvolvido em equipe e apresentado no evento **Decola**.
 
 ---
+
+
+**LivingLand** is a 3D adventure game with an educational focus, developed in 2023 during my Technical Course in Game Development.
+
+The game's main goal is to raise awareness about the importance of nature conservation and protecting animals. The player must rescue animals that were captured by an evil fish, by collecting keys and exploring different environments.
+
+## 🕹️ About the Game
+
+The adventure takes place inside a giant "aquarium" that represents different biomes of the planet. The main character wears a diver suit shaped like a **pink river dolphin**, a symbol of Brazilian wildlife.
+
+The villain is an **evil fish** that has captured various land and sea animals.
+
+### 🌍 Land Stage
+
+- The game starts in the land environment of the aquarium.
+- The player needs to explore the area and find **2 keys** to free the trapped land animals.
+- After completing this mission, the underwater stage is unlocked.
+
+### 🌊 Underwater Stage
+
+- In the underwater environment, the challenge becomes harder.
+- The player must find **2 more keys** to rescue the marine animals.
+- While exploring, the player must also **avoid the evil fish**, which chases the character.
+
+## 🎯 Objectives
+
+- ✅ Collect keys.
+- ✅ Rescue trapped animals.
+- ✅ Explore land and underwater environments.
+- ✅ Escape from the evil fish in the underwater stage.
+- ✅ Promote environmental awareness in a fun and educational way.
+
+## 🚀 Technologies Used
+
+- 🎮 **Unity (3D)**
+- 💻 **C#**
+- 📝 **Visual Studio Code**
+
+## 👨‍💻 My Role
+
+I worked as the **lead programmer of the development team**, responsible for the entire logic and coding of the game.
+
+## 📅 Development
+
+- 📆 Year: **2023**
+- 🎯 Status: **Finished (theoretically)** — functional prototype version.
+
+## 🏆 Presentations
+
+- 🔸 Project developed in a team and presented at the **Decola** event as part of the final projects for the technical course.
+
+---
